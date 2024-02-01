@@ -49,7 +49,7 @@ public class Sequence {
         // Test the Sequence class
         Sequence a = new Sequence();
         a.add(1);
-        a.add(4);
+        a.add(5);
         a.add(9);
         a.add(16);
 
